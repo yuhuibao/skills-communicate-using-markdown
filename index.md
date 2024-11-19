@@ -14,3 +14,9 @@ python3 run_as.py -v 4
 go build
 goinkgo -r
 ```
+
+***
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
